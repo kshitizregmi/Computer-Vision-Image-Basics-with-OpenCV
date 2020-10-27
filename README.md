@@ -1,5 +1,5 @@
 # Computer-Vision-Image-Basics-with-OpenCV
-In this 1-hour long project-based course in coursera. In this course you will learn how to do Computer Vision on images with OpenCV and Python using Jupyter Notebook. 
+It is a 1-hour long project-based course in coursera. In this course you will learn how to do Computer Vision on images with OpenCV and Python using Jupyter Notebook. 
 
 # Course Objectives
 In this course, you will:
